@@ -17,3 +17,7 @@ A simple game made using pygame library of python.
 14. Adding Text and Displaying Score
 15. Adding Sounds and Background Music
 16. Game Over 
+# Screenshots of the game
+![1](https://user-images.githubusercontent.com/44257218/93014952-e3ae2700-f5d2-11ea-9162-bfa82eeb658f.PNG)
+![2](https://user-images.githubusercontent.com/44257218/93014955-e741ae00-f5d2-11ea-86de-874a8045b364.PNG)
+![GameOver](https://user-images.githubusercontent.com/44257218/93014962-f0327f80-f5d2-11ea-9b1c-d816160d955e.PNG)
